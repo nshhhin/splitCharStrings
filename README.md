@@ -4,7 +4,7 @@ Google Cloud Vision API（ https://cloud.google.com/vision/?hl=ja )を用いてO
 なお現在は直接APIにアクセスしているわけではなく、手動でAPIにアクセスしてJSONデータを持ってきているので、今後はこの手間をなくします。<br>
 
 <div align="CENTER">
-<img src="">
+<img src="https://github.com/nshhhin/Images/blob/master/splitChar_demo.png" width="500px" height="auto">
 </div>
 
 ## 
